@@ -9,6 +9,17 @@ Collections of jupyter notebooks working on various datasets.
  - Conditional statements
  - Dictionaries and frequency tables
  - Functions
+ 
+ ## 2. Hacker News exploration
+ [Notebook](https://github.com/amogghrao/Projects-Python/blob/master/Hacker%20News%20exploration.ipynb) is a short project to understand datetime module of python. We are comparing two different types of posts from [Hacker News](https://news.ycombinator.com/), a popular site where technology related stories (or 'posts') are voted and commented upon. The two types of posts we'll explore begin with either Ask HN or Show HN.
+
+My focus on this projects lies in 
+
+- List and for loops
+- Datetime module
+- Data Cleaning
+
+[Dataset source](https://www.kaggle.com/hacker-news/hacker-news-posts/home)
 
 
 
