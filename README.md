@@ -21,7 +21,13 @@ My focus on this projects lies in
 
 [Dataset source](https://www.kaggle.com/hacker-news/hacker-news-posts/home)
 
-## 3. Employee Exit Surveys
+
+ ## 3. Hacker News Exploration
+[Notebook](https://github.com/amogghrao/Projects-Python/blob/master/3.%20Exploring%20eBay%20Car%20Sales%20Data.ipynb) is a short project to understand basic data cleaning techniques and working with type and date casting. We will be working on a dataset of used cars from eBay Kleinanzeigen, a [classified](https://en.wikipedia.org/wiki/Classified_advertising) section of the German eBay website.
+
+The dataset was originally scraped and uploaded to [kaggle](https://www.kaggle.com/orgesleka/used-cars-database/data). The version of the dataset we are working with is a sample of 50,000 data points.
+
+## 4. Employee Exit Surveys
 [Notebook](https://github.com/amogghrao/Projects-Python/blob/master/Exit%20Survey%20of%20DETE.ipynb) is a short project to understand data cleaning techniques and regular expressions in python. 
 
 We will clean and analyze exit surveys from employees of the [Department of Education, Training and Employment \(DETE\)](https://en.wikipedia.org/wiki/Department_of_Education_and_Training_(Queensland)) and [Technical and Further Education (TAFE)](https://en.wikipedia.org/wiki/Technical_and_further_education) body of Queensland government in Australia. We can find the TAFE exit survey [here](https://data.gov.au/dataset/ds-qld-89970a3b-182b-41ea-aea2-6f9f17b5907e/details?q=exit%20survey) and DETE exit survey [here](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey).
