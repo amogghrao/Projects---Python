@@ -22,7 +22,7 @@ My focus on this projects lies in
 [Dataset source](https://www.kaggle.com/hacker-news/hacker-news-posts/home)
 
 
- ## 3. Hacker News Exploration
+ ## 3.  Exploring eBay Car Sales Data
 [Notebook](https://github.com/amogghrao/Projects-Python/blob/master/3.%20Exploring%20eBay%20Car%20Sales%20Data.ipynb) is a short project to understand basic data cleaning techniques and working with type and date casting. We will be working on a dataset of used cars from eBay Kleinanzeigen, a [classified](https://en.wikipedia.org/wiki/Classified_advertising) section of the German eBay website.
 
 The dataset was originally scraped and uploaded to [kaggle](https://www.kaggle.com/orgesleka/used-cars-database/data). The version of the dataset we are working with is a sample of 50,000 data points.
