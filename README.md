@@ -32,6 +32,13 @@ The dataset was originally scraped and uploaded to [kaggle](https://www.kaggle.c
 
 We will clean and analyze exit surveys from employees of the [Department of Education, Training and Employment \(DETE\)](https://en.wikipedia.org/wiki/Department_of_Education_and_Training_(Queensland)) and [Technical and Further Education (TAFE)](https://en.wikipedia.org/wiki/Technical_and_further_education) body of Queensland government in Australia. We can find the TAFE exit survey [here](https://data.gov.au/dataset/ds-qld-89970a3b-182b-41ea-aea2-6f9f17b5907e/details?q=exit%20survey) and DETE exit survey [here](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey).
 
+## 5.  Finding Heavy Traffic Indicators on I-94
+
+In this [Notebook](https://github.com/amogghrao/Projects-Python/blob/master/5.%20%20Finding%20Heavy%20Traffic%20Indicators%20on%20I-94.ipynb), we're going to analyze a dataset about the westbound traffic on the [I-94 Interstate highway](https://en.wikipedia.org/wiki/Interstate_94).
+
+The goal of our analysis is to determine a few indicators of heavy traffic on I-94. These indicators can be weather type, time of the day, time of the week, etc. For instance, we may find out that the traffic is usually heavier in the summer or when it snows.
+
+John Hogue made the dataset available that we'll be working with, and you can download it from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume).
 
 
 
