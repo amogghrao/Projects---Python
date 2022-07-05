@@ -47,7 +47,11 @@ In this [Notebook](https://github.com/amogghrao/Projects-Python-Basics/blob/mast
 
 The project aims to examine the conversion rates of the Euro to Dollar historically through a data set of Euro conversion rates across multiple countries from the Euro's conception to the beginning of 2021. Then trends across six economically impactful events will be visually represented to see what kind of relationship exists betweent these events and the Euro(€) to Dollar($) exchange rate.
 
-Daria Chemkaeva put together the data set and made it available on [Kaggle](https://www.kaggle.com/lsind18/euro-exchange-daily-rates-19992020) — the data source is the European Central Bank.
+Daria Chemkaeva put together the data set and made it available on [Kaggle](https://www.kaggle.com/lsind18/euro-exchange-daily-rates-19992020) — the data source is the European Central Bank. 
+
+You can use this code to generate proffesional plots like below:
+
+![alt text](https://github.com/amogghrao/Projects-Python-Basics/blob/master/Image/download.png)
 
 
 
