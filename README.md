@@ -41,6 +41,15 @@ The goal of our analysis is to determine a few indicators of heavy traffic on I-
 John Hogue made the dataset available that we'll be working with, and you can download it from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume).
 
 
+## 6.  Storytelling Data Visualization on Exchange Rates
+
+In this [Notebook](https://github.com/amogghrao/Projects-Python-Basics/blob/master/6.%20Storytelling%20Data%20Visualization%20on%20Exchange%20Rates.ipynb) we will focus on **Explanatory** data visualization to create graphs for others to inform, make a point, or tell a story. We will be drawing inspiration directly from [**FiveThrityEight**](https://fivethirtyeight.com/features/the-40-weirdest-and-best-charts-we-made-in-2020/) visualization practices.
+
+The project aims to examine the conversion rates of the Euro to Dollar historically through a data set of Euro conversion rates across multiple countries from the Euro's conception to the beginning of 2021. Then trends across six economically impactful events will be visually represented to see what kind of relationship exists betweent these events and the Euro(€) to Dollar($) exchange rate.
+
+Daria Chemkaeva put together the data set and made it available on [Kaggle](https://www.kaggle.com/lsind18/euro-exchange-daily-rates-19992020) — the data source is the European Central Bank.
+
+
 
 
 
